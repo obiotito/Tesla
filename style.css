@@ -153,3 +153,21 @@ aside button.close{
 .backdrop.active{
     display: block;
 }
+
+#disclaimer{
+    color: #d81f26;
+    border: 2px dashed #d81f26;
+    text-align: center;
+}
+
+.footer{
+    height: 50px;
+    width: 100%;
+    background-color: #171a20;
+}
+
+.footer p{
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+}
